@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: ufc-legends
+    runtime: static
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false
